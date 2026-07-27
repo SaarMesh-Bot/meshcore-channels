@@ -3,12 +3,12 @@
   "name": "Portugal",
   "channels": [
 	{
-      "channel": "#alentejo",
-      "description": "Alentejo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
-    },
-	{
       "channel": "#acores",
       "description": "Açores PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#alentejo",
+      "description": "Alentejo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#aveiro",
