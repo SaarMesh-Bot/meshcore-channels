@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:20:53Z",
+  "generated_at": "2026-08-03T14:21:18Z",
   "license": "CC0-1.0",
   "countries": {
     "ad": [],
@@ -198,6 +198,10 @@
         "description": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
       },
       {
+        "channel": "#bergischesland",
+        "description": "Bergisches Land region (east of Cologne)"
+      },
+      {
         "channel": "#bergstrasse",
         "description": "South Hesse Bergstrasse area"
       },
@@ -246,6 +250,10 @@
         "description": "Braunschweig/Wolfsburg region"
       },
       {
+        "channel": "#bw",
+        "description": "Baden-Württemberg (statewide)"
+      },
+      {
         "channel": "#bw-kn",
         "description": "Konstanz district (experimental)"
       },
@@ -260,6 +268,10 @@
       {
         "channel": "#criticalmass",
         "description": "Cycling activism coordination"
+      },
+      {
+        "channel": "#darmstadt",
+        "description": "Darmstadt and southern Hesse"
       },
       {
         "channel": "#dd-companion",
@@ -406,6 +418,10 @@
         "description": "Karlsruhe district"
       },
       {
+        "channel": "#eifel",
+        "description": "Eifel region"
+      },
+      {
         "channel": "#emergency",
         "description": "Not recommended"
       },
@@ -452,6 +468,10 @@
       {
         "channel": "#frankfurt",
         "description": "Frankfurt"
+      },
+      {
+        "channel": "#freiburg",
+        "description": "Freiburg im Breisgau region"
       },
       {
         "channel": "#freifunk",
@@ -602,6 +622,10 @@
         "description": "Main-Kinzig-Kreis"
       },
       {
+        "channel": "#mosel",
+        "description": "Moselle valley (Trier area)"
+      },
+      {
         "channel": "#muelheim",
         "description": "Muelheim an der Ruhr"
       },
@@ -654,6 +678,10 @@
         "description": "Passau"
       },
       {
+        "channel": "#pforzheim",
+        "description": "Pforzheim and Enz district"
+      },
+      {
         "channel": "#ping",
         "description": "Ping/pong tests with bot responses"
       },
@@ -668,6 +696,10 @@
       {
         "channel": "#rennsteigmesh",
         "description": "Global Rennsteig trail channel"
+      },
+      {
+        "channel": "#reutlingen",
+        "description": "Reutlingen region"
       },
       {
         "channel": "#rhein-main",
@@ -686,8 +718,16 @@
         "description": "Rosenheim region"
       },
       {
+        "channel": "#ruhrgebiet",
+        "description": "Ruhr area"
+      },
+      {
         "channel": "#saarland",
         "description": "Saarland"
+      },
+      {
+        "channel": "#saarlorlux",
+        "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
       },
       {
         "channel": "#sarlorlux",
@@ -766,6 +806,10 @@
         "description": "Not recommended"
       },
       {
+        "channel": "#testkanal",
+        "description": "General testing channel"
+      },
+      {
         "channel": "#th",
         "description": "Thuringia"
       },
@@ -780,6 +824,10 @@
       {
         "channel": "#trier",
         "description": "trier"
+      },
+      {
+        "channel": "#ulm",
+        "description": "Ulm and Neu-Ulm region"
       },
       {
         "channel": "#untermain",
@@ -822,6 +870,10 @@
         "description": "Wolfsburg city"
       },
       {
+        "channel": "#worms",
+        "description": "Worms and Rhenish Hesse"
+      },
+      {
         "channel": "#zak",
         "description": "Zollernalbkreis district"
       },
@@ -852,7 +904,24 @@
     "fk": [],
     "fm": [],
     "fo": [],
-    "fr": [],
+    "fr": [
+      {
+        "channel": "#alsace",
+        "description": "Alsace region"
+      },
+      {
+        "channel": "#fr",
+        "description": "France (nationwide)"
+      },
+      {
+        "channel": "#metz",
+        "description": "Metz and Moselle (Lorraine)"
+      },
+      {
+        "channel": "#saarlorlux",
+        "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+      }
+    ],
     "ga": [],
     "gb": [
       {
@@ -1115,7 +1184,16 @@
     "lr": [],
     "ls": [],
     "lt": [],
-    "lu": [],
+    "lu": [
+      {
+        "channel": "#luxembourg",
+        "description": "Luxembourg (nationwide)"
+      },
+      {
+        "channel": "#saarlorlux",
+        "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+      }
+    ],
     "lv": [],
     "ly": [],
     "ma": [],

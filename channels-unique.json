@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:20:53Z",
+  "generated_at": "2026-08-03T14:21:18Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -148,7 +148,7 @@
     },
     {
       "channel": "#alsace",
-      "description": "alsace"
+      "description": "Alsace region"
     },
     {
       "channel": "#altes-land",
@@ -317,6 +317,10 @@
     {
       "channel": "#bemesh",
       "description": "bemesh"
+    },
+    {
+      "channel": "#bergischesland",
+      "description": "Bergisches Land region (east of Cologne)"
     },
     {
       "channel": "#bergstrasse",
@@ -503,6 +507,10 @@
       "description": "burgernet"
     },
     {
+      "channel": "#bw",
+      "description": "Baden-Württemberg (statewide)"
+    },
+    {
       "channel": "#bw-kn",
       "description": "Konstanz district (experimental)"
     },
@@ -669,6 +677,10 @@
     {
       "channel": "#darkroom",
       "description": "darkroom"
+    },
+    {
+      "channel": "#darmstadt",
+      "description": "Darmstadt and southern Hesse"
     },
     {
       "channel": "#dc",
@@ -999,6 +1011,10 @@
       "description": "ei"
     },
     {
+      "channel": "#eifel",
+      "description": "Eifel region"
+    },
+    {
       "channel": "#eindhoven",
       "description": "eindhoven"
     },
@@ -1135,6 +1151,10 @@
       "description": "fosdem"
     },
     {
+      "channel": "#fr",
+      "description": "France (nationwide)"
+    },
+    {
       "channel": "#france",
       "description": "france"
     },
@@ -1145,6 +1165,10 @@
     {
       "channel": "#frankfurt",
       "description": "Frankfurt"
+    },
+    {
+      "channel": "#freiburg",
+      "description": "Freiburg im Breisgau region"
     },
     {
       "channel": "#freifunk",
@@ -1723,6 +1747,10 @@
       "description": "lowestoft"
     },
     {
+      "channel": "#luxembourg",
+      "description": "Luxembourg (nationwide)"
+    },
+    {
       "channel": "#maassluis",
       "description": "maassluis"
     },
@@ -1843,6 +1871,10 @@
       "description": "Automated weather bulletin for Milano"
     },
     {
+      "channel": "#metz",
+      "description": "Metz and Moselle (Lorraine)"
+    },
+    {
       "channel": "#mexico",
       "description": "mexico"
     },
@@ -1897,6 +1929,10 @@
     {
       "channel": "#montreal",
       "description": "montreal"
+    },
+    {
+      "channel": "#mosel",
+      "description": "Moselle valley (Trier area)"
     },
     {
       "channel": "#motor",
@@ -2215,6 +2251,10 @@
       "description": "pets"
     },
     {
+      "channel": "#pforzheim",
+      "description": "Pforzheim and Enz district"
+    },
+    {
       "channel": "#philadelphia",
       "description": "philadelphia"
     },
@@ -2443,6 +2483,10 @@
       "description": "retie"
     },
     {
+      "channel": "#reutlingen",
+      "description": "Reutlingen region"
+    },
+    {
       "channel": "#rhein-main",
       "description": "Frankfurt/Rhine-Main metro area"
     },
@@ -2479,12 +2523,20 @@
       "description": "ruche"
     },
     {
+      "channel": "#ruhrgebiet",
+      "description": "Ruhr area"
+    },
+    {
       "channel": "#s62",
       "description": "s62"
     },
     {
       "channel": "#saarland",
       "description": "Saarland"
+    },
+    {
+      "channel": "#saarlorlux",
+      "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
     },
     {
       "channel": "#sacramento",
@@ -2783,6 +2835,10 @@
       "description": "Not recommended"
     },
     {
+      "channel": "#testkanal",
+      "description": "General testing channel"
+    },
+    {
       "channel": "#testn",
       "description": "testn"
     },
@@ -2857,6 +2913,10 @@
     {
       "channel": "#uk",
       "description": "uk"
+    },
+    {
+      "channel": "#ulm",
+      "description": "Ulm and Neu-Ulm region"
     },
     {
       "channel": "#unix",
@@ -3029,6 +3089,10 @@
     {
       "channel": "#wolfsburg",
       "description": "Wolfsburg city"
+    },
+    {
+      "channel": "#worms",
+      "description": "Worms and Rhenish Hesse"
     },
     {
       "channel": "#wx",
