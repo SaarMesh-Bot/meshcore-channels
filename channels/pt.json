@@ -1,5 +1,106 @@
 {
   "code": "pt",
   "name": "Portugal",
-  "channels": []
+  "channels": [
+	{
+      "channel": "#acores",
+      "description": "Açores PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#alentejo",
+      "description": "Alentejo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#aveiro",
+      "description": "Aveiro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#beja",
+      "description": "Beja PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#braga",
+      "description": "Braga PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#braganca",
+      "description": "Bragança PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#castelobranco",
+      "description": "Castelo Branco PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#coimbra",
+      "description": "Coimbra PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#csy",
+      "description": "A bot channel"
+    },
+	{
+      "channel": "#evora",
+      "description": "Evora PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#faro",
+      "description": "Faro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#guarda",
+      "description": "Guarda PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#leiria",
+      "description": "Leiria PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#lisboa",
+      "description": "Lisboa PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#madeira",
+      "description": "Madeira PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#ping",
+      "description": "The Pingbot is a microservice in the MeshCore ecosystem that automatically responds to ping commands on the mesh network, use .ping | !ping | 8ping | 4ping "
+    },
+    {
+      "channel": "#plano333",
+      "description": "https://www.meshcore.pt/en/projects/plano333"
+    },
+	{
+      "channel": "#portalegre",
+      "description": "Portalegre PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#porto",
+      "description": "Porto PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#santarem",
+      "description": "Santarem PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#setubal",
+      "description": "Setubal PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#testes",
+      "description": "A test channel"
+    },
+	{
+      "channel": "#vianadocastelo",
+      "description": "Viana do Castelo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#vilareal",
+      "description": "Vila Real PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#viseu",
+      "description": "Viseu PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    }
+  ]
 }
