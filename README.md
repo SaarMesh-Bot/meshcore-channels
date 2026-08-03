@@ -75,10 +75,10 @@ maintainers and the build automation.
 
 <!-- channels:auto-status:begin -->
 
-- Last build: `2026-06-17T11:34:48Z`
+- Last build: `2026-08-03T14:20:53Z`
 - Roots: 252
-- Channels: 858
-- Unique channels: 768
+- Channels: 883
+- Unique channels: 792
 
 <!-- channels:auto-status:end -->
 

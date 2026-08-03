@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:34:48Z",
+  "generated_at": "2026-08-03T14:20:53Z",
   "license": "CC0-1.0",
   "channels": [
     {
@@ -91,6 +91,10 @@
       "description": "abc"
     },
     {
+      "channel": "#acores",
+      "description": "Açores PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#admin",
       "description": "admin"
     },
@@ -109,6 +113,10 @@
     {
       "channel": "#alaska",
       "description": "alaska"
+    },
+    {
+      "channel": "#alentejo",
+      "description": "Alentejo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#alert",
@@ -243,6 +251,10 @@
       "description": "autism"
     },
     {
+      "channel": "#aveiro",
+      "description": "Aveiro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#b",
       "description": "b"
     },
@@ -297,6 +309,10 @@
     {
       "channel": "#beer",
       "description": "beer"
+    },
+    {
+      "channel": "#beja",
+      "description": "Beja PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#bemesh",
@@ -419,6 +435,14 @@
       "description": "brabant"
     },
     {
+      "channel": "#braga",
+      "description": "Braga PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#braganca",
+      "description": "Bragança PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#brandenburg",
       "description": "Brandenburg"
     },
@@ -523,6 +547,10 @@
       "description": "cascadia"
     },
     {
+      "channel": "#castelobranco",
+      "description": "Castelo Branco PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#cat",
       "description": "cat"
     },
@@ -579,6 +607,10 @@
       "description": "coffee"
     },
     {
+      "channel": "#coimbra",
+      "description": "Coimbra PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#colombia",
       "description": "colombia"
     },
@@ -605,6 +637,10 @@
     {
       "channel": "#cruxin",
       "description": "cruxin"
+    },
+    {
+      "channel": "#csy",
+      "description": "A bot channel"
     },
     {
       "channel": "#custom-firmware",
@@ -1031,8 +1067,16 @@
       "description": "evenvroegopstaan"
     },
     {
+      "channel": "#evora",
+      "description": "Evora PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#ezhe",
       "description": "ezhe"
+    },
+    {
+      "channel": "#faro",
+      "description": "Faro PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#fbaw",
@@ -1197,6 +1241,10 @@
     {
       "channel": "#gsn",
       "description": "gsn"
+    },
+    {
+      "channel": "#guarda",
+      "description": "Guarda PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#gunmen",
@@ -1579,6 +1627,10 @@
       "description": "Leipzig"
     },
     {
+      "channel": "#leiria",
+      "description": "Leiria PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#lelystad",
       "description": "lelystad"
     },
@@ -1617,6 +1669,10 @@
     {
       "channel": "#lippstadt",
       "description": "Lippstadt"
+    },
+    {
+      "channel": "#lisboa",
+      "description": "Lisboa PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#lisbon",
@@ -1673,6 +1729,10 @@
     {
       "channel": "#maastricht-hl",
       "description": "maastricht-hl"
+    },
+    {
+      "channel": "#madeira",
+      "description": "Madeira PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#madrid",
@@ -2211,6 +2271,10 @@
       "description": "pingpong"
     },
     {
+      "channel": "#plano333",
+      "description": "https://www.meshcore.pt/en/projects/plano333"
+    },
+    {
       "channel": "#plovdiv",
       "description": "plovdiv"
     },
@@ -2231,8 +2295,16 @@
       "description": "politie"
     },
     {
+      "channel": "#portalegre",
+      "description": "Portalegre PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#portland",
       "description": "portland"
+    },
+    {
+      "channel": "#porto",
+      "description": "Porto PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#portugal",
@@ -2427,6 +2499,10 @@
       "description": "sanjose"
     },
     {
+      "channel": "#santarem",
+      "description": "Santarem PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#santiago",
       "description": "santiago"
     },
@@ -2489,6 +2565,10 @@
     {
       "channel": "#server",
       "description": "server"
+    },
+    {
+      "channel": "#setubal",
+      "description": "Setubal PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#sf",
@@ -2695,6 +2775,10 @@
       "description": "test"
     },
     {
+      "channel": "#testes",
+      "description": "A test channel"
+    },
+    {
       "channel": "#testing",
       "description": "Not recommended"
     },
@@ -2811,12 +2895,24 @@
       "description": "Traffic info from bremenvier.de"
     },
     {
+      "channel": "#vianadocastelo",
+      "description": "Viana do Castelo PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
       "channel": "#vienna",
       "description": "vienna"
     },
     {
       "channel": "#vietnam",
       "description": "vietnam"
+    },
+    {
+      "channel": "#vilareal",
+      "description": "Vila Real PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+    {
+      "channel": "#viseu",
+      "description": "Viseu PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
     {
       "channel": "#vlaardingen",
