@@ -1,5 +1,14 @@
 {
   "code": "lu",
   "name": "Luxembourg",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#luxembourg",
+      "description": "Luxembourg (nationwide)"
+    },
+    {
+      "channel": "#saarlorlux",
+      "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+    }
+  ]
 }

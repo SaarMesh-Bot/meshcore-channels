@@ -1,5 +1,22 @@
 {
   "code": "fr",
   "name": "France",
-  "channels": []
+  "channels": [
+    {
+      "channel": "#alsace",
+      "description": "Alsace region"
+    },
+    {
+      "channel": "#fr",
+      "description": "France (nationwide)"
+    },
+    {
+      "channel": "#metz",
+      "description": "Metz and Moselle (Lorraine)"
+    },
+    {
+      "channel": "#saarlorlux",
+      "description": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+    }
+  ]
 }
